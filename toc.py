@@ -86,7 +86,7 @@ def process(folder, save_path):
 
 
     lines = [ '# Linux',
-              'linux notebooks',
+              'linux notebook',
               ' ',
               '**目录：**']
 
